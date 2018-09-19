@@ -1,0 +1,31 @@
+Homework Assignment #1
+-------------------------------------------------------------------------------------
+
+Due: Monday, Sept. 25
+
+Exercises: 3.6, 3.7, 3.9, 3.11
+
+Submit a .py file that:
+
+Defines the functions that are called to complete the assignment.
+Runs a main program that calls a function called 
+ExercseXXX, 
+that is:
+Exercise360
+Exercise370
+Exercise390
+Exercise311
+
+that calls all the functions required and produces the following answers:
+
+Exercise360 returns the output of the original and modified test function as Ans3601 and Ans3062
+Also upload a .txt file answering the question about what needs to be modified.
+
+Exercise370 returns Ans3701 and Ans3702
+
+Exercise390 should accept AdaptiveEpsilon as an input and 
+     returns Ans390
+
+Exercise311 should produce a plot as discussed
+	 prints a 10 x 10 table of answers Ijk to a file
+     Also push a .txt file answering the questions
